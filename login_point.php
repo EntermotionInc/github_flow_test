@@ -1,2 +1,2 @@
 <?php
-echo('login point!');
+echo("login point!\n");
