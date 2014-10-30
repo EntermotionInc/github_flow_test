@@ -1,7 +1,7 @@
 <?php
 class Xxx {
-    public static function yyy()
+    public static function hello()
     {
-        return "yyy";
+        return "hello";
     }
 }
